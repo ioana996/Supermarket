@@ -1,0 +1,11 @@
+10
+Ana;3094;A
+Andrei;3209;A
+Maria;3180;A
+Ion;3342;C
+Marian;1586;A
+Andreea;4328;A
+Iulia;2045;B
+Andrada;5139;B
+Cristina;3278;C
+Marius;4346;B
